@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="frostillicus.library.example.feature">
+      <category name="Example XPages Library"/>
+   </feature>
+   <feature id="frostillicus.library.example.feature.source">
+      <category name="Example XPages Library"/>
+   </feature>
+   
+   <category-def name="Example XPages Library" label="Example XPages Library"/>
+</site>

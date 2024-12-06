@@ -1,0 +1,13 @@
+# Eclipse Stuff
+.project
+.classpath
+.settings/
+.factorypath
+
+.DS_Store
+
+.vscode/
+
+target/
+
+pom.xml.versionsBackup

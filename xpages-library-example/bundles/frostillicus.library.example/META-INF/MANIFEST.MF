@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Example XPages Library
+Bundle-SymbolicName: frostillicus.library.example;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Export-Package: frostillicus.library.example
+Import-Package: com.ibm.xsp.library,
+ org.osgi.framework
+Require-Bundle: org.openntf.domino;bundle-version="12.0.0";visibility:=reexport,
+ org.openntf.domino.xsp;bundle-version="12.0.0"
+Automatic-Module-Name: frostillicus.library.example
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
